@@ -20,6 +20,7 @@
 		76BB9B001A7FE8AD00164C89 /* AlisonBirthdayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76BB9AFF1A7FE8AD00164C89 /* AlisonBirthdayTests.swift */; };
 		76BB9B0B1A7FEFB600164C89 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76BB9B0A1A7FEFB600164C89 /* App.swift */; };
 		76BB9B0D1A7FF0E900164C89 /* AXAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76BB9B0C1A7FF0E800164C89 /* AXAApp.swift */; };
+		76FB31A21A8482FB00479A58 /* ShitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76FB31A11A8482FB00479A58 /* ShitApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		76BB9AFF1A7FE8AD00164C89 /* AlisonBirthdayTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlisonBirthdayTests.swift; sourceTree = "<group>"; };
 		76BB9B0A1A7FEFB600164C89 /* App.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		76BB9B0C1A7FF0E800164C89 /* AXAApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AXAApp.swift; sourceTree = "<group>"; };
+		76FB31A11A8482FB00479A58 /* ShitApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShitApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				765A47301A82733E0030ACA0 /* Player.swift */,
 				76BB9B0A1A7FEFB600164C89 /* App.swift */,
 				76BB9B0C1A7FF0E800164C89 /* AXAApp.swift */,
+				76FB31A11A8482FB00479A58 /* ShitApp.swift */,
 			);
 			path = Node;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				765A47341A8274390030ACA0 /* AppFactory.swift in Sources */,
 				765A47361A82744C0030ACA0 /* GameCenter.swift in Sources */,
 				765A47311A82733E0030ACA0 /* Player.swift in Sources */,
+				76FB31A21A8482FB00479A58 /* ShitApp.swift in Sources */,
 				765A472F1A82642C0030ACA0 /* GameOverScene.swift in Sources */,
 				76BB9AE61A7FE8AD00164C89 /* AppDelegate.swift in Sources */,
 			);
